@@ -1,5 +1,8 @@
 _repo: The-Edinburgh-Lectures-on-Mental-Science_10390
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Troward, T. (Thomas)
@@ -20,6 +23,8 @@ description: '"Thomas Troward (1847-1916) was an English author whose works infl
   Lectures on Mental Science. In the opening of the 2006 film The Secret (2006 film),
   introductory remarks credit Troward''s philosophy with inspiring the movie and its
   production."--Wikipedia June 2011.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10390#The-Edinburgh-Lectures-on-Mental-Science
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
